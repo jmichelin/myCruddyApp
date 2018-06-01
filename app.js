@@ -14,9 +14,4 @@ $(document).ready(function(){
     $('.debug').text(retrievedData);
   });
 
-  // $('.textField').on('keyup', function(){
-  //   let textFieldValue = $('.textField').val();
-  //   $('.debug').text(textFieldValue);
-  // });
-
 });
